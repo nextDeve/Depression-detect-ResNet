@@ -1,0 +1,10 @@
+MTCNN
+numpy
+pandas
+Pillow
+tensorboardX
+torch
+torchvision
+tqdm
+tensorflow
+opencv-python
